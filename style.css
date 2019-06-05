@@ -9,7 +9,7 @@ h1 {
 .image {
     width: 145px;
     height: 500px;
-    background-image: url(/images/corps.png);
+    background-image: url(./images/corps.png);
     background-repeat: no-repeat;
     background-position: center;
     margin: 80px auto;
